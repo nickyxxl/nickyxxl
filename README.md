@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @nickyxxl
 
 - 👀 I’m interested in 
-Web development, software.
+Web development, Docker.
 
 - 🌱 I’m currently learning
-Javascript, C++
+Javascript, Typescript.
 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 nickyswinckels@yahoo.com
 website: nickyxxxl.nl (under construction)
