@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @nickyxxl
 
 - 👀 I’m interested in 
-Web development, Docker.
+Web development, Devops, learning new things!
 
 - 🌱 I’m currently learning
-Javascript, Typescript.
+Typescript
 
 - 📫 How to reach me ...
-nickyswinckels@yahoo.com
+nickyswinckels@disroot.org
 website: nickyxxxl.nl (under construction)
 
 <!---
